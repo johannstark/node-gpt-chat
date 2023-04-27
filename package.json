@@ -1,0 +1,28 @@
+{
+  "name": "gpt-node-integration",
+  "version": "0.0.1",
+  "description": "Node project to use OpenAI's GPT models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johannstark/gpt-node-integration.git"
+  },
+  "keywords": [
+    "gpt",
+    "openai",
+    "node",
+    "api"
+  ],
+  "author": "johannstark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johannstark/gpt-node-integration/issues"
+  },
+  "homepage": "https://github.com/johannstark/gpt-node-integration#readme",
+  "dependencies": {
+    "openai": "^3.2.1"
+  }
+}
