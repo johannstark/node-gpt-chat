@@ -22,8 +22,8 @@ async function sendMessage(message) {
 	const response = await openai.createChatCompletion({
 		model: "gpt-3.5-turbo-0301",
 		messages: conversation,
-		temperature: 1,
-		max_tokens: 200,
+		temperature: 1.5,
+		max_tokens: 100,
 	});
 
 	// Return the message returned by OpenAI deep into the response object
