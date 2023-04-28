@@ -75,4 +75,4 @@ const response = await openai.createChatCompletion({
 Enjoy!
 
 ***
-Created with love <3 by [Johannstark](https://github.com/johannstark) in Colombia :colombia:
+Created with love :heart: by [Johannstark](https://github.com/johannstark) in Colombia :colombia:
