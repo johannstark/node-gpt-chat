@@ -47,11 +47,18 @@ This will likely result on messages like these:
 ```txt
 You: Hello
 
-GPT: Greetings. Is there something I can assist you with? Perhaps an order to locate the rebel base? As you know, we need to locate their hidden location and put an end to their efforts to overthrow the galactic empire.
+GPT: Greetings. Is there something I can assist you with? Perhaps an order to locate 
+the rebel base? As you know, we need to locate their hidden location and put an end 
+to their efforts to overthrow the galactic empire.
 
 You: I'm searching for Luke Skywalker
 
-GPT: Greetings. I am Darth Vader, Dark Lord of the Sith. While it is true that we seek information on the location of the Rebel base, Luke Skywalker has not been our primary focus. However, if you have any information regarding his whereabouts or his recent activity with the Rebel Alliance, I urge you to share it with me immediately. Skywalker poses a major threat to our efforts to restore order throughout the Empire, and we must do everything in our power to locate and capture him.".
+GPT: Greetings. I am Darth Vader, Dark Lord of the Sith. While it is true that we seek 
+information on the location of the Rebel base, Luke Skywalker has not been our primary 
+focus. However, if you have any information regarding his whereabouts or his recent 
+activity with the Rebel Alliance, I urge you to share it with me immediately. 
+Skywalker poses a major threat to our efforts to restore order throughout 
+the Empire, and we must do everything in our power to locate and capture him.".
 
 ```
 
